@@ -45,6 +45,8 @@ Pour un dossier de travail donné, Git manipule différents « espaces virtuels 
 - `git clone {url} [nom-local]` récupère un repo distant (remote sur GitHub par exemple) en local, dans un dossier créé à la volée qu’il est possible de renommer (par défaut : nom du repo sur le remote)
 - `git push` publie mes commits sur un remote repository(github par ex)
 - `git log` historique de mes anciens commits
+- `git commit -m "Ton message" --amend` change le message du commit précedent
+- `git commit --amend --no-edit` ajouter des modifs au commit different (si on a oublier un truc avant de commit)
   
 ## Configuration de git
 
