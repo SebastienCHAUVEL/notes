@@ -41,7 +41,7 @@ Servent à paramétrer ou ajouter de l'information dans nos balise html
 - `lorem + TAB` pour génerer du texte auto ( si on ajoute un nombre on aura un texte basé sur un nb de caractere)
 - `F12` inspecter le html dans le navigateur
 - `maintient ALT +fleche` deplace une ligne dans VSCode
-- `Emmet '!' + Tab`  pour créer la structure html
+- `'!' + Tab`  pour créer la structure html dans VSCode
 - `CTRL + MAJ + P > ecrire "wrap"(envelopper une abreviation) puis le nom de la balise`  pour mettre du texte (selectionné avant) entre balises
 - `CTRL + d` selectionne toutes les occurences du texte (selectionné avant)
 - `selection > "utiliser CTRL + clic pour l'option multicurseur"(si pas déjà parametré)` cette option permet de selectionné plusieurs mots séparés dans un même texte
